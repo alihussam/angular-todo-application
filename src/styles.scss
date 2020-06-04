@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+.container {
+    padding: 0 1rem;
+}
+
+.btn {
+    display: inline-block;
+    border: none;
+    background: #555555;
+    color: #ffffff;
+    padding: 7px 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #555666;
+    color: #fff000;
+}
